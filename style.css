@@ -37,6 +37,8 @@ button{
     background-color: #1d59f1;
     color: aliceblue;
     margin-top: 10px;
+    border-radius: 10px;
+    border: none;
 }
 button:hover{
     background-color: #011d8d;
